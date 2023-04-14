@@ -1,4 +1,4 @@
-### Hi there 👋
+### A C-to-JavaScript glue code generator
 
 <!--
 **CJSBinder/CJSBinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
